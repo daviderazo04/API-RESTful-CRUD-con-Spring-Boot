@@ -19,10 +19,5 @@ API diseñada para gestionar un catálogo de productos con funcionalidades CRUD,
 > [!TIP]  
 > Te invito a ver este video corto del funcionamiento de la API
 
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/db_jpa_crud
-spring.datasource.username=root
-spring.datasource.password=sasa1234
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
-spring.jpa.show-sql=true
+https://github.com/user-attachments/assets/bd4c0a3b-0331-47db-b98e-a302f0514b03
+
